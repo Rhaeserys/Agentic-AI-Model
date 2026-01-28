@@ -108,4 +108,3 @@ The Problem: Sometimes, a final agent (like your chief_strategist) will just sta
 
 The Fix: This is a "prompt engineering" problem. You need to improve the agent's goal and backstory to be more demanding. For your chief_strategist, you could add to its goal: "Do not just list the other reports. You MUST synthesize them and provide three new, predictive insights based on their combined data."
 
-*** The Model still needs a bit more work, but will update soon. ***
